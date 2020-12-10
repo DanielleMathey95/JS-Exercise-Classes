@@ -75,7 +75,7 @@ class Airplane {
   */
   
  class Car {
-    constructor(miles, milesPerGallon) {
+    constructor(model, milesPerGallon) {
       this.model = model;
       this.milesPerGallon = milesPerGallon;
       this.tank = 0;
